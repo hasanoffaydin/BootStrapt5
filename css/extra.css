@@ -1,0 +1,18 @@
+.myHeight {
+    height: 450px;
+}
+.Box2{
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+    opacity: 75%;
+}
+.Box{
+    width: 300px;
+    height: 300px;
+}
+.Box3{
+    position: relative;
+    left: 20%;
+    top: 30%;
+}
